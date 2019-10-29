@@ -1,0 +1,7 @@
+https://roygkoxzvi.execute-api.us-east-1.amazonaws.com/default/ec2type_large
+
+https://io6c0dxq8j.execute-api.us-east-1.amazonaws.com/default/nano_instance
+
+https://ravwblm026.execute-api.us-east-1.amazonaws.com/default/StartEC2Instances
+
+https://gq7vumnyy6.execute-api.us-east-1.amazonaws.com/default/StopEC2Instances
